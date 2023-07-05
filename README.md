@@ -4,7 +4,7 @@ Code for the analyses presented in the article: Üblacker, M.M., Infante, D.M, C
 ## Citation
 If you use any of this code in your experiments, please make sure to cite the following publication:
 
-**Note:** At this point, the paper is accepted, yet only online as preview and no further information about the volumne and pages are available. Please, check the website of [STOTEN](https://doi.org/10.1016/j.scitotenv.2023.165101) for an update of the citation.
+**Note:** At this point, the paper is accepted, yet only online as preview and no further information about the volume and pages are available. Please, check the website of [STOTEN](https://doi.org/10.1016/j.scitotenv.2023.165101) for an update of the citation.
 
 ```{bash}
 @article{Ueblacker2023,
