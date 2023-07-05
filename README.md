@@ -1,7 +1,7 @@
 # Threshold analyses of landscape-scale drivers to fluvial fishes
 Code for the analyses presented in the articel: Üblacker, M.M., Infante, D.M, Cooper, A.R., Daniel, W.M., Schmutz, S., & Schinegger, R. (2023). Cross-continental evaluation of landscape-scale drivers and their impacts to fluvial fishes: Understanding frequency and severity to improve fish conservation in Europe and the United States. *Science of The Total Environment*. [https://doi.org/10.1016/j.scitotenv.2023.165101](https://doi.org/10.1016/j.scitotenv.2023.165101).
 
-# Citation
+## Citation
 If you use any of this code in your experiments, please make sure to cite the following publication:
 
 **Note:** At this point, the paper is accepted, yet only online as preview and no further information about the volumne and pages are available. Please, check the website of [STOTEN](https://doi.org/10.1016/j.scitotenv.2023.165101) for an update of the citation.
@@ -17,5 +17,5 @@ doi = {https://doi.org/10.1016/j.scitotenv.2023.165101},
 url = {https://www.sciencedirect.com/science/article/pii/S0048969723037245}
 }
 ```
-# License of the code 
+## License of the code 
 [GNU GPL-3.0 license](https://github.com/mueblacker/crossfish/blob/main/LICENSE)
