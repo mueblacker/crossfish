@@ -14,7 +14,8 @@ pages = {165101},
 year = {2023},
 issn = {0048-9697},
 doi = {https://doi.org/10.1016/j.scitotenv.2023.165101},
-url = {https://www.sciencedirect.com/science/article/pii/S0048969723037245}
+url = {https://www.sciencedirect.com/science/article/pii/S0048969723037245},
+author = {Maria M. Üblacker and Dana M. Infante and Arthur R. Cooper and Wesley M. Daniel and Stefan Schmutz and Rafaela Schinegger},
 }
 ```
 ## License of the code 
